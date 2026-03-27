@@ -1,3 +1,7 @@
+<img width="2752" height="1114" alt="Gemini_Generated_Image_h98272h98272h982" src="https://github.com/user-attachments/assets/ca2b029f-2dea-4cf2-9295-765bcb23a091" />
+
+---
+
 # Hi there! I'm Andrés Cárdenas Armijos 👋
 
 I am a **6th-semester Computer Science student** at Universidad Técnica Particular de Loja (UTPL). I focus on developing efficient software solutions and building scalable web applications.
