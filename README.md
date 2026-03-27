@@ -1,23 +1,23 @@
-# ¡Hola! Soy Andrés Cárdenas Armijos 👋
+# Hi there! I'm Andrés Cárdenas Armijos 👋
 
-Estudiante de **6to ciclo de Ingeniería en Ciencia de la Computación** en la Universidad Técnica Particular de Loja (UTPL). Me apasiona resolver problemas tecnológicos mediante software eficiente y escalable.
+I am a **6th-semester Computer Science student** at Universidad Técnica Particular de Loja (UTPL). I focus on developing efficient software solutions and building scalable web applications.
 
-### 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** Java, Python y Node.js.
-* **Frontend:** Angular y React.
-* **Backend:** Spring Boot y **Firebase** (Manejo de bases de datos NoSQL y Autenticación).
-* **Bases de Datos:** Diseño y gestión de bases de datos relacionales y no relacionales.
+### 🛠️ Technologies & Tools
+* **Languages:** Java, Python, and Node.js.
+* **Frontend:** Angular and React.
+* **Backend:** Spring Boot and **Firebase** (NoSQL Databases & Authentication).
+* **Databases:** Relational and Non-relational database design and management.
 
-### 🚀 Proyectos Destacados
+### 🚀 Key Projects
 
-#### **Reserva de Café™** | *Oct 2025 – Actualidad*
-* Administrador y desarrollador web enfocado en usabilidad.
-* Optimización de bases de datos para mejorar el rendimiento del sitio.
+#### **Reserva de Café™** | *Oct 2025 – Present*
+* Web administrator and developer focused on usability and performance.
+* Database optimization to ensure high system availability.
 
 #### **EconoWorld** | *Oct 2025 – Feb 2026*
-* Ingeniero Backend. Implementación de arquitectura segura y eficiente.
-* Integración con Firebase para autenticación de usuarios y gestión de datos.
+* Backend Engineer responsible for system architecture and security.
+* Integrated Firebase for real-time data handling and secure user authentication.
 
 ---
-📫 **Contacto:** andrescardenasarmijos@gmail.com
-📍 **Ubicación:** Loja, Ecuador
+📫 **Contact:** andrescardenasarmijos@gmail.com
+📍 **Location:** Loja, Ecuador
