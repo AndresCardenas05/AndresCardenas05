@@ -16,6 +16,7 @@ I am a **6th-semester Computer Science student** at Universidad Técnica Particu
 
 #### **EconoWorld** | *Oct 2025 – Feb 2026*
 * Backend Engineer responsible for system architecture and security.
+* Frontend Engineer responsible for desing and usability.
 * Integrated Firebase for real-time data handling and secure user authentication.
 
 ---
