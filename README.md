@@ -4,24 +4,38 @@
 
 # Hi there! I'm Andrés Cárdenas Armijos 👋
 
-I am a **6th-semester Computer Science student** at Universidad Técnica Particular de Loja (UTPL). I focus on developing efficient software solutions and building scalable web applications.
+Software Engineer & Backend Developer focused on scalable architectures, API security, transactional consistency, and CI/CD automation. Experienced in building microservices, securing web services, and implementing DevOps best practices within enterprise and financial environments.
 
 ### 🛠️ Technologies & Tools
-* **Languages**: Java, Python, and Node.js.
-* **Frontend**: Angular and React.
-* **Backend**: Spring Boot and **Firebase** (NoSQL Databases & Authentication).
-* **Databases**: Relational and Non-relational database design and management.
-
-### 🚀 Key Projects
-
-#### [**Reserva de Café™**](https://github.com/AndresCardenas05/AndresCardenas05/blob/main/Reserva%20de%20Caf%C3%A9%E2%84%A2.md) | *Oct 2025 – Present*
-* Web administrator and developer focused on usability and performance.
-* Database optimization to ensure high system availability.
-
-#### [**EconoWorld**](https://github.com/AndresCardenas05/AndresCardenas05/blob/main/EconoWorld%20Project.md) | *Oct 2025 – Feb 2026*
-* Backend Engineer responsible for system architecture and security.
-* Integrated Firebase for real-time data handling and secure user authentication.
+* **Languages**: C#, Java, Python, R, TypeScript, JavaScript.
+* **Backend & Security**: .NET Core, Node.js, Spring Boot, Web Services Authentication & Authorization (Auth WS / JWT).
+* **Architectures & Integration**: Microservices, REST APIs, Ocelot API Gateway.
+* **DevOps & CI/CD**: Jenkins (`Jenkinsfile`, `JenkinsfileDev`), Docker, Multi-environment Configuration (`appsettings`).
+* **QA & Testing**: Functional, Integration, and Regression Testing, Postman.
+* **Databases**: SQL Server, Oracle, MySQL, Firebase.
+* **Frontend**: Angular, React, WordPress.
+* **Data & Analytics**: R (dplyr, ggplot2, Random Forest), Power BI.
 
 ---
-📫 **Contact**: andrescardenasarmijos@gmail.com
-📍 **Location**: Loja, Ecuador
+
+### 💼 Experience & Key Highlights
+
+#### **Coopmego** | *Software Engineer (Backend, QA & DevOps)*
+* Designed and maintained backend microservices and RESTful APIs using **C# (.NET)** and **Node.js**.
+* Implemented authentication and authorization mechanisms for secure web services consumption (**Auth WS** / API security).
+* Configured and routed services using **Ocelot API Gateway**, ensuring decoupling and controlled network exposure.
+* Automated CI/CD deployment workflows maintaining dedicated pipeline configurations (**`Jenkinsfile`** for production and **`JenkinsfileDev`** for development/testing).
+* Standardized application configurations (`appsettings.json`) across environments and containerized services using **Docker**.
+* Executed QA test matrices (functional, regression, and transactional verification) for core financial modules.
+
+#### [**Reserva de Café™**](https://github.com/AndresCardenas05/AndresCardenas05/blob/main/Reserva%20de%20Caf%C3%A9%E2%84%A2.md) | *Web Developer & Administrator*
+* Built and maintained the e-commerce web platform, focusing on performance, usability, and database optimization.
+
+#### [**EconoWorld**](https://github.com/AndresCardenas05/AndresCardenas05/blob/main/EconoWorld%20Project.md) | *Backend Engineer*
+* Architected backend services and integrated Firebase for authentication and real-time data persistence.
+
+---
+
+📫 **Contact**: andrescardenasarmijos@gmail.com  
+📍 **Location**: Loja, Ecuador  
+🔗 **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/)
