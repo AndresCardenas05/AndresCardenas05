@@ -38,4 +38,4 @@ Software Engineer & Backend Developer focused on scalable architectures, API sec
 
 📫 **Contact**: andrescardenasarmijos@gmail.com  
 📍 **Location**: Loja, Ecuador  
-🔗 **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/)
+🔗 **LinkedIn**: [https://www.linkedin.com/](https://www.linkedin.com/in/andr%C3%A9s-c%C3%A1rdenas-armijos-6130a6434/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BACN%2BnLr8QGua6D6ObjRnBQ%3D%3D))
